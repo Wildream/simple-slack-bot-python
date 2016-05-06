@@ -1,0 +1,2 @@
+slackclient == 1.0.0
+tomorrow == 0.2.4
